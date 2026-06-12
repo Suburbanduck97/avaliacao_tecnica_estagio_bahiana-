@@ -57,7 +57,7 @@ git clone <https://github.com/Suburbanduck97/avaliacao_tecnica_estagio_bahiana-.
 Entre na pasta:
 
 ```bash
-cd AVALIACAOTECNICA
+cd avaliacao_tecnica_estagio_bahiana-
 ```
 
 Execute:

@@ -135,6 +135,7 @@ Retorna:
 ---
 
 ## 👀 Observações
-
+* A lógica de programação foi desenvolvido em Python sem uso de bibliotecas ou frameworks.
+* O código pode ser executado em IDEs locais ou online com suporte a Python 3.
 * As consultas foram desenvolvidas utilizando SQL padrão.
 * O projeto pode ser executado em ferramentas SQL online ou localmente.

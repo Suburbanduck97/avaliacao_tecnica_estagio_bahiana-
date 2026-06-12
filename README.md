@@ -1,6 +1,6 @@
 # Avaliação Técnica — Parte 1 e Parte 2
 
-## 📝Descrição
+## 📝 Descrição
 
 Este repositório contém a solução desenvolvida para a avaliação técnica proposta.
 
@@ -11,7 +11,7 @@ O projeto está dividido em duas partes:
 
 ---
 
-## 🏗️Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 
 ```plaintext
 AVALIACAOTECNICA/
@@ -23,7 +23,7 @@ AVALIACAOTECNICA/
 
 ---
 
-## 💻Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 ### Parte 1
 
@@ -44,7 +44,7 @@ Nenhuma dependência externa foi necessária.
 
 ---
 
-## 🎯Como Executar
+## 🎯 Como Executar
 
 ### Parte 1
 
@@ -105,7 +105,7 @@ O script realiza:
 
 ---
 
-## Consultas Implementadas
+## 🔎 Consultas Implementadas
 
 ### Questão 1
 
@@ -134,7 +134,7 @@ Retorna:
 
 ---
 
-## 👀Observações
+## 👀 Observações
 
 * As consultas foram desenvolvidas utilizando SQL padrão.
 * O projeto pode ser executado em ferramentas SQL online ou localmente.

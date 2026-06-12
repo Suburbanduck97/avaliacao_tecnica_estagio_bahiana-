@@ -50,7 +50,7 @@ Nenhuma dependência externa foi necessária.
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/Suburbanduck97/avaliacao_tecnica_estagio_bahiana-.git>
 ```
 
 Entre na pasta:

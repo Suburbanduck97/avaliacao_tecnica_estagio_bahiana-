@@ -17,6 +17,7 @@ O projeto está dividido em duas partes:
 AVALIACAOTECNICA/
 ├── avaliacaoInovate.sql
 ├── parte1.py
+├── .gitignore
 └── README.md
 ```
 
